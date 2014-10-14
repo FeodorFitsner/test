@@ -1,5 +1,4 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTestProject1
 {
@@ -11,6 +10,7 @@ namespace UnitTestProject1
 		{
 			Assert.IsTrue(true);
 		}
+
 		[TestMethod]
 		public void TestMethod2()
 		{
